@@ -1,0 +1,31 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    background-color: lime;
+    color: slategray;
+}
+
+span {
+    background-color: pink;
+    color: slateblue;
+}
+
+h3 {
+    background-color: lightgoldenrodyellow;
+    color: brown;
+}
+
+p {
+    background-color: rgb(208, 225, 22);
+    color: rgb(181, 17, 17);
+}
+
+ol {
+    background-color: rgb(237, 76, 232);
+    color: rgb(0, 255, 162);
+}
+
+
+
